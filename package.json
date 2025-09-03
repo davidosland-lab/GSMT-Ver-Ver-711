@@ -1,0 +1,11 @@
+{
+  "name": "gsmt-frontend",
+  "version": "7.0.0",
+  "description": "GSMT Ver 7.0 Frontend - Static deployment for Netlify",
+  "scripts": {
+    "build": "echo 'No build required for static frontend'",
+    "start": "echo 'Static frontend - no dev server needed'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
